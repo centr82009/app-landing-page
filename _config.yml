@@ -1,0 +1,7 @@
+title: ITMO Web
+sass:
+    load_paths:
+        - _sass
+        - node_modules
+
+exclude: []
