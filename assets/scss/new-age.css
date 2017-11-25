@@ -306,3 +306,8 @@ footer {
 .btn-xl {
   font-size: 11px;
   padding: 15px 45px; }
+
+.icon-to-center {
+  position: relative;
+  top: 20px;
+}
