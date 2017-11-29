@@ -1,7 +1,7 @@
-title: ITMO Web
+title:          ITMO Web
 sass:
     load_paths:
         - _sass
-        - node_modules
+        - vendor
 
-exclude: []
+exclude:        []
